@@ -22,7 +22,7 @@ BEGIN
         p_enabled => TRUE,
         p_schema => 'OCI_GENAI_BOT',
         p_url_mapping_type => 'BASE_PATH',
-        p_url_mapping_pattern => 'ocigenaibot',
+        p_url_mapping_pattern => 'oci_genai_bot',
         p_auto_rest_auth=> FALSE
     );
     -- ENABLE DATA SHARING
