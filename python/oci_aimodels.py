@@ -35,6 +35,7 @@ db_user = config["db_user"]
 db_pass = config["db_password"]
 db_dsn = config["db_dsn"]
 wallet_path = config["wallet_dir"]
+log_file_pattern = "retrieve_ai_models.log"
 
 # 💡 Initialize Oracle Thick Client
 oracledb.init_oracle_client(lib_dir=config["oracle_client_lib_dir"])
