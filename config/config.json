@@ -4,6 +4,7 @@
   "db_dsn": "change_dsn",  
   "aimodel_table": "AI_MODEL_CONFIG",
   "wallet_dir": "/home/opc/wallet",
+  "comp_ocid": "ocid1.compartment.oc1..aaaaaaaakpv3g5tpbbo67mcx5hcnvdeeyv2okycwnfhwtclebkmfcwe455xa",
   "use_test_credentials": false,
   "oracle_client_lib_dir": "/usr/lib/oracle/23/client64/lib",
   "test_credentials": {
