@@ -1,0 +1,21 @@
+{
+  "db_user": "OCI_GENAI_BOT",
+  "db_password": "",
+  "db_dsn": "change_dsn",  
+  "aimodel_table": "AI_MODEL_CONFIG",
+  "wallet_dir": "/home/opc/wallet",
+  "use_test_credentials": false,
+  "oracle_client_lib_dir": "/usr/lib/oracle/23/client64/lib",
+  "test_credentials": {
+    "user": "OCI_GENAI_BOT",
+    "password": "",
+    "dsn": "change_dsn"
+  },
+  "db_credentials": {
+    "pass_secret_ocid": "ocid1.vaultsecret.oc1.eu-frankfurt-1.amaaaaaaa2kgpiaag6xatz7ugeb4s7u7slt66y7n5xizvwwa3w6ovj5e5f6q",
+    "user": "OCI_GENAI_BOT",
+    "dsn": "change_dsn"
+  },
+  "app_dir": "/home/opc/oci-bot",
+  "regions": []
+}

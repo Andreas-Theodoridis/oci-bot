@@ -12,7 +12,7 @@ import oracledb
 from oci.generative_ai.generative_ai_client import GenerativeAiClient
 
 # === Set Directories ===
-app_dir = "/home/opc/oci-focus-reports"
+app_dir = "/home/opc/oci-bot"
 config_dir = os.path.join(app_dir, "config")
 log_dir = os.path.join(app_dir, "logs")
 OLD_LOG_DIR = os.path.join(log_dir, "old")
